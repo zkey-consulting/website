@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dr. Zijad Kurtanović | Software- and Data Engineering Expert in Big Data and Artificial Intelligence on </title>
+    <link>http://localhost:1313/en/</link>
+    <description>Recent content in Dr. Zijad Kurtanović | Software- and Data Engineering Expert in Big Data and Artificial Intelligence on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/about/</guid>
+      <description> Hey, I am John Doe Together with my friend &amp;lsquo;Fenix&amp;rsquo; I have built Hugobricks, a theme that allows you to create a website by stacking shortcodes. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.&#xA;Empty brick found. Consider creating a &amp;lsquo;content/bricks/cta.md&amp;rsquo; file. </description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/contact/</guid>
+      <description> Dr. Zijad Kurtanović | …Contact I&#39;m happy to hear from you! Name Email address Phone number Message I accept the terms and conditions .. or drop me an E-mail </description>
+    </item>
+    <item>
+      <title>Imprint</title>
+      <link>http://localhost:1313/en/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/imprint/</guid>
+      <description>Dr. Zijad Kurtanović | …Imprint Imprint Information pursuant to § 5 TMG Dr. Zijad Kurtanović&#xA;Represented by Dr. Zijad Kurtanović&#xA;Contact Editorially responsible Dr. Zijad Kurtanović&#xA;EU Dispute Resolution The European Commission provides a platform for online dispute resolution (OS): https://ec.europa.eu/consumers/odr/.&#xA;Our email address can be found above in the imprint.&#xA;Consumer Dispute Resolution/Universal Arbitration Board We are not willing or obliged to participate in dispute resolution proceedings before a consumer arbitration board.</description>
+    </item>
+    <item>
+      <title>map</title>
+      <link>http://localhost:1313/en/bricks/map/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/bricks/map/</guid>
+      <description>&#xA;.. or drop me an E-mail </description>
+    </item>
+    <item>
+      <title>Privacy policy</title>
+      <link>http://localhost:1313/en/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/privacy-policy/</guid>
+      <description>Dr. Zijad Kurtanović | …Privacy policy Privacy Policy Effective Date: 1st of April 2024&#xA;1. General Information We appreciate your interest in our consulting website. Protecting your personal data is important to us. This privacy policy explains which data we collect, how we use it, and your rights regarding your data.&#xA;2. Responsible Entity The entity responsible for processing your personal data on this website is:&#xA;Dr. Zijad Kurtanović 3.</description>
+    </item>
+  </channel>
+</rss>
